@@ -2,7 +2,7 @@
  *Vilmos Feher
 * BillofSale.java
 *28/02/2018
-*In this program we calculate what amounts go on the bill when purchasing a \
+*In this program we calculates what amounts go on the bill when purchasing a 
 *T-Shirt
 */
 
